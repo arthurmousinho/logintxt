@@ -1,5 +1,4 @@
-# logintxt
-Mini projeto de sistema de login usando arquivos txt
+Sistema de login usando arquivos txt
 
 Opções disponíveis:
 
